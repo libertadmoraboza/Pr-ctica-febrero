@@ -1,7 +1,8 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
+package e1.apartadoc;
 
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.*;
 
 class CircleTest {
 
@@ -10,7 +11,7 @@ class CircleTest {
     }
 
     @Test
-    void getArea() {
+    void setRadius() {
     }
 
     @Test
@@ -18,15 +19,11 @@ class CircleTest {
     }
 
     @Test
-    void getCircumference() {
-    }
-
-    @Test
-    void setRadius() {
-    }
-
-    @Test
     void setColor() {
+    }
+
+    @Test
+    void getArea() {
     }
 
     @Test

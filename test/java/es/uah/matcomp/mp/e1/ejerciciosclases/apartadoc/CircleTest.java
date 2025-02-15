@@ -1,15 +1,17 @@
-package es.uah.matcomp.mp.e1.ejerciciosclases;
+package es.uah.matcomp.mp.e1.ejerciciosclases.apartadoc;
 
 import org.junit.jupiter.api.Test;
 
-class RectangleTest {
+import static org.junit.jupiter.api.Assertions.*;
+
+class CircleTest {
 
     @Test
-    void getLength() {
+    void getRadius() {
     }
 
     @Test
-    void getWidth() {
+    void setRadius() {
     }
 
     @Test
@@ -18,14 +20,6 @@ class RectangleTest {
 
     @Test
     void getPerimeter() {
-    }
-
-    @Test
-    void setLength() {
-    }
-
-    @Test
-    void setWidth() {
     }
 
     @Test
