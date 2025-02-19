@@ -1,4 +1,4 @@
-package e1.apartadoc;
+package es.uah.matcomp.mp.e1.ejerciciosclases.apartadod.polimorfismos;
 
 import org.junit.jupiter.api.Test;
 
@@ -15,15 +15,11 @@ class CircleTest {
     }
 
     @Test
-    void getColor() {
-    }
-
-    @Test
-    void setColor() {
-    }
-
-    @Test
     void getArea() {
+    }
+
+    @Test
+    void getPerimeter() {
     }
 
     @Test

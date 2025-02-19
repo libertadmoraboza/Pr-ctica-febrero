@@ -1,33 +1,33 @@
-package e1.apartadoc;
+package es.uah.matcomp.mp.e1.ejerciciosclases.apartadod.polimorfismos;
 
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class CylinderTest {
+class RectangleTest {
 
     @Test
-    void getBase() {
+    void getWidth() {
     }
 
     @Test
-    void setBase() {
+    void setWidth() {
     }
 
     @Test
-    void getHeight() {
+    void getLength() {
     }
 
     @Test
-    void setHeight() {
+    void setLength() {
     }
 
     @Test
-    void getVolume() {
+    void getArea() {
     }
 
     @Test
-    void getSurfaceArea() {
+    void getPerimeter() {
     }
 
     @Test
